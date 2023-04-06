@@ -77,7 +77,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rudrik-patel-726697254/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://rudrik01.github.io/Portfolio/"><img src="https://img.icons8.com/clouds/100/null/domain.png"/></a>
+<a href = "https://rudrik01.github.io/Portfolio/"><img src="https://img.icons8.com/clouds/50/null/domain.png"/></a>
 <a href = "https://www.instagram.com/rudrik_patel_04/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!--<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>-->
 
