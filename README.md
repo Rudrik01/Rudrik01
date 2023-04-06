@@ -54,7 +54,7 @@
  
 ## Github Stats 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Rudrik01&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
+<img  src="[https://github-readme-stats.vercel.app/api?username=Rudrik01&count_private=true&show_icons=true&theme=gotham](https://github-readme-stats.vercel.app/api?username=Rudrik01&show_icons=true&theme=radical)" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rudrik01&theme=gotham" width="48%" >
 <br>
 
