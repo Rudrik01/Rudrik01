@@ -67,7 +67,7 @@
 
 ## Leetcode Stats 🏆
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/patelrudrik2004?theme=nord&font=Ubuntu%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rudrik01?theme=nord&font=Ubuntu%20Mono&ext=heatmap)
 
 <br>
 
